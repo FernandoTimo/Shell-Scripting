@@ -16,8 +16,7 @@ Attrib -h -s -r .git;
 Attrib +h +s +r .git;
 # copiar info
 ipconfig | clip
-# Mostrar programas instalados
-wmic product get name
+
 # shutdown -r
 # cat index.sh
 
