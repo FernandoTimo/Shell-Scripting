@@ -14,7 +14,11 @@ Attrib +h +s -r README.md;
 Attrib -h -s -r README.md;
 Attrib -h -s -r .git;
 Attrib +h +s +r .git;
-ipcconfig | clip
-
+# copiar info
+ipconfig | clip
+# Mostrar programas instalados
+wmic product get name
 # shutdown -r
 # cat index.sh
+
+Configuración IP de Windows
