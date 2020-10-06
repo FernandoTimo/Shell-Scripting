@@ -5,5 +5,15 @@ node -v;
 npm -v;
 git --version;
 echo "Chuta no lo recomiendo 👋 pero ya fue"
-shutdown -r
+color 0D
+color f4
+title Timoideas Console Scripts
+# para ocultar y mostrar ocultos
+# Attrib +h +s +r README.md
+Attrib +h +s -r README.md;
+Attrib -h -s -r README.md;
+Attrib -h -s -r .git;
+Attrib +h +s +r .git;
+
+# shutdown -r
 # cat index.sh
