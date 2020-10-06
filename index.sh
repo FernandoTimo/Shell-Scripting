@@ -14,6 +14,7 @@ Attrib +h +s -r README.md;
 Attrib -h -s -r README.md;
 Attrib -h -s -r .git;
 Attrib +h +s +r .git;
+ipcconfig | clip
 
 # shutdown -r
 # cat index.sh
