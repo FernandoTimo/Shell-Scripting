@@ -1,3 +1,3 @@
 # tasklist
-taskkill /f /t /im chrome.exe
+taskkill /f /t /pid 1412
 #  ocn estos commandos podremos eliminat cyakqyuer tarea quye se esta eraliuzabdo actualknetbte ebn el bnavegador

@@ -1,0 +1,1 @@
+# Con estos comandos pordemos controlar la PC (Encendido, Apagado Reinicio) y delay
