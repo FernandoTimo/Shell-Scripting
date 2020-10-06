@@ -6,4 +6,6 @@
 # Muestra interfaz
 # shutdown -i
 # Cierra la session
-shutdown -l
+# shutdown -l
+# Inicia modo suspender
+shutdown -h
