@@ -17,7 +17,6 @@ Attrib +h +s +r .git;
 # copiar info
 ipconfig | clip
 
-# shutdown -r
 # cat index.sh
 
 Configuración IP de Windows
